@@ -33,6 +33,17 @@
     "Imagepath": "Specdrums"
   },
   {
+    "Objectname": "Kindle",
+    "Madeby": "Amazon",
+    "Publicisedlaunched": 2017,
+    "Reference": "https://www.amazon.com/All-new-Kindle-now-with-a-built-in-front-light/dp/B07DLPWYB7",
+    "TargetAudience": "Bookreaders, students",
+    "AnalogeDigital": [25,37,92,7,41,78,14,92,18,22,13,72,0,99,67,37,59,31,12,90,41,53,51,14,77,9,67,51,78,76,39,32,32,36,9,18,9,93,95,88,99,41,26,28,77,92,35,76,76,17,31,69,72,42,9,99,46,23,95,38,8,24,3,46,18,8,71,62,94,17,71,13,94,35,57,4,29,43,76,28,21,35,81,14,94,76,29,46,36,27,34,78,43,22,28,10,77,8,98,81,32],
+    "Userfriendlyness": [15,87,90,8,66,28,19,91,58,59,37,77,68,26,7,66,34,29,55,66,72,90,91,84,48,53,8,54,61,90,23,27,72,85,84,77,55,52,47,12,95,53,12,5,83,56,71,62,71,59,19,28,73,29,18,63,28,59,93,20,44,81,5,78,82,79,5,32,47,62,15,67,13,94,51,48,91,35,53,28,49,98,37,95,16,14,59,43,16,12,69,47,75,9,33,16,20,80,3,7,17],
+    "Description": "The kindle is an e-book reader produced by amazon. It's a very popular ebook reading device because of its integration with amazon online book store. otherwise it's a well designed portable device for reading that have limited browsing capabilities. Choosing the Kindle is preferable if you already are a big user of the amazon ecosystem, otherwise use will be limited.",
+    "Imagepath": "kindle"
+  },
+  {
     "Objectname": "Smiley keyboard",
     "Madeby": "Apple, Google, Swiftkey, Facebook, Snapchat...",
     "Publicisedlaunched": "2010~",
